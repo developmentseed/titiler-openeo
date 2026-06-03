@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.15.0 (2026-06-03)
+
+## What's Changed
+* fix: resolve ParameterReference objects in context for callbacks by @emmanuelmathot in https://github.com/sentinel-hub/titiler-openeo/pull/257
+* fix: nested resolution by @emmanuelmathot in https://github.com/sentinel-hub/titiler-openeo/pull/259
+* feat: add logical OR operation by @emmanuelmathot in https://github.com/sentinel-hub/titiler-openeo/pull/260
+* fix: update context parameter type to Optional[Any] as per spec by @emmanuelmathot in https://github.com/sentinel-hub/titiler-openeo/pull/261
+* fix: align if_ operands with leading spectral dimension by @emmanuelmathot in https://github.com/sentinel-hub/titiler-openeo/pull/262
+* chore(deps): bump the all group across 1 directory with 9 updates by @dependabot[bot] in https://github.com/sentinel-hub/titiler-openeo/pull/263
+
+
+**Full Changelog**: https://github.com/sentinel-hub/titiler-openeo/compare/v0.14.1...v0.15.0
+
 ## 0.14.1 (2026-04-01)
 
 ## What's Changed
